@@ -4,24 +4,206 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "965E7775-69E8-44B7-AB3C-09ADF88BAA95"
+		"uuidString": "AD2354A7-6DF1-4E04-B606-22DC5523CABF"
 		}
 	],
 "creatorBuild": "25704",
 "files": {
+	"\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/_fonts.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/_fonts.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/_mixins.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/_mixins.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/_variables.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/_variables.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/ie.sassc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/ie.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/print.sassc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/print.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/screen.sassc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/screen.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/styles.sassc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.sass-cache\/45bd9ead7aacfc1c0451eadb775f9a5f4ede9f5c\/styles.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/75fcaf1b4852ceb732871195e41567cc2a7d8997\/source\/sass\/_fonts.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/75fcaf1b4852ceb732871195e41567cc2a7d8997\/source\/sass\/_fonts.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/75fcaf1b4852ceb732871195e41567cc2a7d8997\/source\/sass\/_mixins.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/75fcaf1b4852ceb732871195e41567cc2a7d8997\/source\/sass\/_mixins.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/75fcaf1b4852ceb732871195e41567cc2a7d8997\/source\/sass\/_variables.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/75fcaf1b4852ceb732871195e41567cc2a7d8997\/source\/sass\/_variables.sassc",
+		"oF": 0
+		},
+	"\/.sass-cache\/c3ab1670562fbe15a63786a7d75bea7dcd9a123d\/_reset.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/c3ab1670562fbe15a63786a7d75bea7dcd9a123d\/_reset.scssc",
+		"oF": 0
+		},
+	"\/.sass-cache\/fab43834e8aadf59dd36f488b834e4ad302578fa\/_utilities.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/.sass-cache\/fab43834e8aadf59dd36f488b834e4ad302578fa\/_utilities.scssc",
+		"oF": 0
+		},
 	"\/build": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/config.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/config.rb",
+		"oF": 0
+		},
 	"\/source\/pug\/index.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/build\/pug\/index.html",
+		"oAP": "\/build\/index.html",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/source\/sass\/_fonts.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/sass\/_mixins.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/css\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/sass\/_variables.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/css\/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/sass\/ie.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/build\/css\/ie.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/sass\/print.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/build\/css\/print.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/sass\/responsive\/_desktop.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/build\/css\/_desktop.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/sass\/screen.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/build\/css\/screen.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/sass\/styles.sass": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/build\/css\/styles.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		}
 	},
 "hooks": [
@@ -29,7 +211,7 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 511404057,
+	"creationDate": 511482627,
 	"displayValue": "Star Wars Intro",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-trap"
@@ -1706,7 +1888,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"es6": {
@@ -1741,11 +1923,11 @@
 	"languageDefaultsCOFFEE": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
+		"autoOutputPathRelativePath": "..\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 1,
+		"createSourceMap": 1,
 		"minifyOutput": 1,
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
@@ -1757,7 +1939,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
@@ -1773,10 +1955,10 @@
 	"languageDefaultsHAML": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
-		"autoOutputPathRelativePath": "",
+		"autoOutputPathRelativePath": "\/",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
@@ -1797,11 +1979,11 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 1,
+		"createSourceMap": 1,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
 		"transpilerStyle": 0
@@ -1830,22 +2012,22 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 1
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
 		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"strictImports": 0,
 		"strictMath": 0,
@@ -1857,7 +2039,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -1895,22 +2077,22 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"compileDebug": 1,
 		"outputStyle": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 1,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
@@ -1920,7 +2102,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"compileOnly": 0,
 		"logicless": 0,
 		"outputFormat": 0,
@@ -1930,16 +2112,16 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 1,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"importCSS": 0,
 		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsSVG": {
@@ -1957,11 +2139,11 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createDeclarationFile": 0,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"jsxMode": 0,
-		"minifyOutput": 0,
+		"minifyOutput": 1,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
 		"noImplicitAny": 0,

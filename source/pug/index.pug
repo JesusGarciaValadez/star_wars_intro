@@ -3,7 +3,7 @@ html(lang="en")
 head
   meta(charset="utf-8")
   title STAR WARS: Episode III Revenge of the Sith
-  meta(name='description', content="@yield( 'description' )")
+  meta(name='description', content="STAR WARS: Episode III Revenge of the Sith")
   meta(name='viewport', content='width=device-width, initial-scale=1')
 
   meta(property='og:title', content='Fan del Agua')
@@ -13,33 +13,43 @@ head
   meta(property='og:image', content="http://www.fandelagua.com/huella-hidrica/images/logo.png")
   meta(http-equiv='X-UA-Compatible', content='IE=edge')
 
-  link(rel='shortcut icon', type='image/x-icon', href='images/favicon.png')
+  link(rel='shortcut icon' type='image/x-icon' href='images/favicon.png')
+  link(rel="stylesheet" type="text/css" href="/build/css/screen.css" media="screen, projection")
+  link(rel="stylesheet" type="text/css" href="/build/css/print.css" media="print")
+  <!--[if IE]>
+      link(href="/build/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css")
+  <![endif]-->
   link(href='css/style.css', type='text/css', rel='stylesheet')
-  link(href='css/font-awesome.min.css', type='text/css', rel='stylesheet')
 body
-  h2 A long time ago in a galaxy far, #[br/]far away...
-  h1 STAR WARS
-  h3 Episode III
-  h4 REVENGE OF THE SITH
-  p
-    | War! The Republic is crumbling #[br/]
-    | under attacks by the ruthless #[br/]
-    | Sith Lord, Count Dooku. #[br/]
-    | There are heroes on both sides. #[br/]
-    | Evil is everywhere. #[br/]
+  audio(preload="auto")
+    source(src="intro.ogg" type="audio/ogg")
+    source(src="intro.mp3" type="audio/mpeg")
+  section.intro
+    h2 A long time ago in a galaxy far, #[br/]far away...
+  section.titles
+    h1 STAR WARS
+    h3 Episode III
+    h4 REVENGE OF THE SITH
+    .text
+      p
+        | War! The Republic is crumbling #[br/]
+        | under attacks by the ruthless #[br/]
+        | Sith Lord, Count Dooku. #[br/]
+        | There are heroes on both sides. #[br/]
+        | Evil is everywhere. #[br/]
 
-  p
-    | In a stunning move, the #[br/]
-    | fiendish droid leader, General #[br/]
-    | Grievous, has swept into the #[br/]
-    | Republic capital and kidnapped #[br/]
-    | Chancellor Palpatine, leader of #[br/]
-    | the Galactic Senate.#[br/]
+      p
+        | In a stunning move, the #[br/]
+        | fiendish droid leader, General #[br/]
+        | Grievous, has swept into the #[br/]
+        | Republic capital and kidnapped #[br/]
+        | Chancellor Palpatine, leader of #[br/]
+        | the Galactic Senate.#[br/]
 
-  p
-    | As the Separatist Droid Army #[br/]
-    | attempts to flee the besieged #[br/]
-    | capital with their valuable #[br/]
-    | hostage, two Jedi Knights lead a #[br/]
-    | desperate mission to rescue the #[br/]
-    | captive Chancellor.... #[br/]
+      p
+        | As the Separatist Droid Army #[br/]
+        | attempts to flee the besieged #[br/]
+        | capital with their valuable #[br/]
+        | hostage, two Jedi Knights lead a #[br/]
+        | desperate mission to rescue the #[br/]
+        | captive Chancellor.... #[br/]
